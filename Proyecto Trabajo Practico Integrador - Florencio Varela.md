@@ -2,7 +2,9 @@
 2.3.1 Identificación de debilidades, amenazas, fortalezas y oportunidades para cada una de las herramientas evaluadas
 
 
-Wordpress: https://wordpress.com/
+# CMS Principal
+
+## Wordpress: https://wordpress.com/
 
 	
 Fortalezas
@@ -36,7 +38,7 @@ Amenazas
 
 
 
-Drupal: https://new.drupal.org/home
+## Drupal: https://new.drupal.org/home
 
 
 Fortalezas
@@ -78,7 +80,7 @@ Amenazas
 
 
 
-Joomla: https://www.joomla.org/
+## Joomla: https://www.joomla.org/
 
 
 Fortalezas
@@ -124,3 +126,50 @@ Amenazas
 • Mercado nicho limitado: confinado a hobbyistas y PyMEs, inadecuado para uso corporativo grande.
 
 
+# Tienda Virtual
+
+## WooCommerce
+
+
+Fortalezas
+• Gratuito y código abierto: sin costos de licencia inicial, altamente accesible para todo tipo de negocios.
+• Integración perfecta con WordPress: aprovecha el ecosistema de 59,000+ plugins de WordPress, ideal para negocios con sitio existente.
+• Personalización total: miles de temas prediseñados y posibilidad de crear diseños únicos desde cero.
+• Alta flexibilidad: soporta productos físicos, digitales, suscripciones, reservas, tickets y marketplaces.
+• Facilidad de uso: curva de aprendizaje suave para usuarios familiarizados con WordPress.
+• Gran comunidad de soporte: millones de usuarios, desarrolladores y abundante documentación/tutoriales.
+• Líder del mercado: 23.43% del mercado e-commerce global, 8+ millones de instalaciones activas, 4+ millones de sitios live.
+• Seguridad avanzada: cifrado, autenticación en dos pasos y actualizaciones frecuentes.
+• Multilenguaje: disponible en 67 idiomas para audiencia global.
+
+Debilidades
+• Dependencia absoluta de WordPress: no puede funcionar de manera independiente.
+• Sin soporte técnico oficial: la resolución de problemas depende de la comunidad o soporte de terceros.
+• Impacto en rendimiento: múltiples plugins/extensiones pueden ralentizar significativamente el sitio.
+• Costos ocultos: aunque gratuito, requiere inversión en extensiones premium, hosting de calidad, seguridad y marketing.
+• Actualizaciones constantes necesarias: sin mantenimiento regular el sitio se vuelve vulnerable.
+• Problemas de compatibilidad: conflictos entre plugins y temas pueden afectar funcionalidad.
+• Responsabilidad del usuario: configuración, mantenimiento y seguridad recaen completamente en el administrador.
+• Checkout poco flexible: difícil personalizar página de pago o implementar compra directa sin carrito.
+• Falta documentación legal: no incluye términos, condiciones o políticas de privacidad predefinidas.
+• Barrera técnica: funcionalidades avanzadas requieren conocimientos de programación.
+
+Oportunidades
+• Crecimiento acelerado: adopción crece 13-15% cada cuatro meses, expansión constante.
+• Integración de IA: oportunidad de implementar inteligencia artificial para escalar eficientemente y mejorar procesos.
+• Woo Express: modelo probado y exitoso para aprender e implementar mejoras.
+• Mercados emergentes: expansión hacia nuevos territorios geográficos.
+• Optimización móvil: mejora para capturar el dominio creciente del m-commerce (comercio móvil).
+• Público joven: mercado objetivo más joven representa oportunidad de crecimiento.
+• Compatibilidad con proyecto existente en WordPress: capitalizar infraestructura y conocimiento previo del equipo.
+• Ecosistema de extensiones en crecimiento: nuevos plugins y herramientas constantemente disponibles.
+
+Amenazas
+• Competencia de Shopify: domina mercado joven con simplicidad y baja barrera de entrada, asociado con creadores/influencers.
+• Pérdida de cuota de mercado: bajó de 16% (2024) a 13% (2025) en top 1 millón de sitios e-commerce.
+• Competencia de plataformas especializadas: BigCommerce, Magento, Shopify ofrecen soluciones más específicas.
+• Vulnerabilidades de seguridad al escalar: sitios más grandes son objetivos atractivos para ciberataques (robo de datos de pago).
+• Complejidad de dropshipping: gestión de inventario y envíos presenta desafíos significativos.
+• Saturación del mercado e-commerce: difícil diferenciarse en un espacio altamente competitivo.
+• Necesidad de conocimiento técnico avanzado: puede alejar a usuarios no técnicos hacia plataformas más simples.
+• Costos crecientes de mantenimiento: a medida que escala, aumentan costos de hosting, seguridad y optimización.
