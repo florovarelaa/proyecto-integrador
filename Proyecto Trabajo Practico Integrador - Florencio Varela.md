@@ -1,11 +1,12 @@
-2.3 DAFO sobre las herramientas investigadas
-2.3.1 Identificación de debilidades, amenazas, fortalezas y oportunidades para cada una de las herramientas evaluadas
 
 
-# CMS Principal
+# 2.3 DAFO sobre las herramientas investigadas
+* 2.3.1 Identificación de debilidades, amenazas, fortalezas y oportunidades para cada una de las herramientas evaluadas
 
-## Wordpress: https://wordpress.com/
+## 2.3.1.1 CMS: Investigación y Análisis de WordPress, Drupal y Joomla.
 
+### 2.3.1.1.1 - DAFO - Wordpress
+https://wordpress.com/
 	
 Fortalezas
 • Existencia de proyecto previo implementado en WordPress: el equipo cuenta con experiencia acumulada, código base funcional y conocimiento profundo de la plataforma, lo que reduce significativamente tiempos de desarrollo y riesgos de implementación.
@@ -37,8 +38,8 @@ Amenazas
 • Incremento de costos de mantenimiento y hosting en proyectos de gran escala.
 
 
-
-## Drupal: https://new.drupal.org/home
+### 2.3.1.1.2 - DAFO - Drupal
+https://new.drupal.org/home
 
 
 Fortalezas
@@ -79,9 +80,8 @@ Amenazas
 • Posible obsolescencia técnica si no adapta velocidad de innovación de la competencia.
 
 
-
-## Joomla: https://www.joomla.org/
-
+### 2.3.1.1.3 - DAFO - Joomla
+https://www.joomla.org/
 
 Fortalezas
 • Equilibrio entre simplicidad y potencia: punto intermedio ideal entre WordPress (simple) y Drupal (complejo), ofreciendo funcionalidad robusta con facilidad de uso moderada.
@@ -126,10 +126,9 @@ Amenazas
 • Mercado nicho limitado: confinado a hobbyistas y PyMEs, inadecuado para uso corporativo grande.
 
 
-# Tienda Virtual
+## 2.3.1.2 Tienda virtual: Evaluación de WooCommerce, Shopify y Magento.
 
-## WooCommerce
-
+### 2.3.1.2.1 - DAFO - WooCommerce
 
 Fortalezas
 • Gratuito y código abierto: sin costos de licencia inicial, altamente accesible para todo tipo de negocios.
@@ -175,9 +174,7 @@ Amenazas
 • Costos crecientes de mantenimiento: a medida que escala, aumentan costos de hosting, seguridad y optimización.
 
 
-
-## Shopify
-
+## 2.3.1.2.2 - DAFO - Shopify
 
 Fortalezas
 • Plataforma totalmente alojada (hosted): infraestructura completa incluida, sin necesidad de contratar hosting externo ni gestionar servidores.
@@ -225,9 +222,7 @@ Amenazas
 • Limitaciones para proyectos complejos: requisitos específicos de backend o integraciones complejas requieren control total del código que Shopify no ofrece.
 
 
-
-## Magento
-
+## 2.3.1.2.3 - DAFO - Magento
 
 Fortalezas
 • Escalabilidad excepcional: capaz de gestionar catálogos con más de 10,000 productos, hasta 80,000 pedidos por hora y admite hasta 1 millón de productos.
@@ -274,3 +269,9 @@ Amenazas
 • Mantenimiento costoso: actualizaciones, parches y soporte requieren inversión continua significativa.
 • Incompatibilidad con WordPress: no puede integrarse fácilmente con proyectos WordPress existentes sin desarrollo complejo.
 • Nuevas plataformas headless: Strapi, Contentful, Commercetools ofrecen flexibilidad enterprise con menor complejidad.
+
+## 2.3.1.3 Diseño visual: Evaluación de Elementor, Gutenberg y Divi Builder.
+
+## 2.3.1.3.1 - DAFO - Elementor
+## 2.3.1.3.2 - DAFO - Gutenberg
+## 2.3.1.3.3 - DAFO - Divi Builder
