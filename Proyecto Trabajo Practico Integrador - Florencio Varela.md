@@ -1,7 +1,22 @@
+# 2.1 Investigación del sistema actual
 
+El sistema actual:
+* está desarrollado en WordPress
+
+* usa distintos plugins
+
+- elementor:  maquetador de página usando arrastrar y soltar. Usa el tema de hello elementor
+
+- woocomerce: plugin gratis para WordPress que le agrega funcionalidad de e-commerce al sitio
+
+* Really Simple SSL: Plugin ligero sin configuraciones que hace que tu sitio wordpress cargue con SSL
+
+* storecustomizer: sirve para customizar woocommerce sin la necesidad de escribir codigo
+
+* multimedia: Es donde se almacenan en WordPress imágenes, videos, documentos, que se suben al sitio con el uso de elementor
 
 # 2.3 DAFO sobre las herramientas investigadas
-* 2.3.1 Identificación de debilidades, amenazas, fortalezas y oportunidades para cada una de las herramientas evaluadas
+## 2.3.1 Identificación de debilidades, amenazas, fortalezas y oportunidades para cada una de las herramientas evaluadas
 
 ## 2.3.1.1 CMS: Investigación y Análisis de WordPress, Drupal y Joomla.
 
