@@ -173,3 +173,53 @@ Amenazas
 • Saturación del mercado e-commerce: difícil diferenciarse en un espacio altamente competitivo.
 • Necesidad de conocimiento técnico avanzado: puede alejar a usuarios no técnicos hacia plataformas más simples.
 • Costos crecientes de mantenimiento: a medida que escala, aumentan costos de hosting, seguridad y optimización.
+
+
+
+## Shopify
+
+
+Fortalezas
+• Plataforma totalmente alojada (hosted): infraestructura completa incluida, sin necesidad de contratar hosting externo ni gestionar servidores.
+• Facilidad de uso excepcional: interfaz intuitiva sin necesidad de conocimientos técnicos ni programación, configuración rápida y sencilla.
+• Soporte técnico 24/7: atención al cliente disponible todo el tiempo, una de sus mayores ventajas.
+• Infraestructura técnica robusta: estabilidad del servidor sin caídas, CDN nativa con buen TTFB global.
+• Ecosistema maduro: más de 8,000 aplicaciones y marketplace de temas responsive.
+• Escalabilidad automática: maneja grandes volúmenes de tráfico y transacciones sin configuración adicional.
+• Alcance global: 2.1 millones de comerciantes en 175 países (Q3 2023).
+• Capacidades SEO integradas: herramientas de optimización nativas para motores de búsqueda.
+• Shopify Magic (IA): inteligencia artificial integrada para contenido e imágenes.
+• Multicanal: Shopify Markets y POS permiten gestionar e-commerce, retail y ventas internacionales desde un panel.
+• Integración con WordPress: soporte headless permite integrar Shopify en sitios WordPress existentes.
+
+Debilidades
+• Estructura de costos elevada: tarifas mensuales + comisiones por transacción con pasarelas externas (2-3% adicional).
+• Dependencia de aplicaciones de terceros: funcionalidades clave requieren apps con suscripciones adicionales, costos operativos crecientes.
+• No es open source: no tienes control total del código ni propiedad completa de la plataforma.
+• Limitaciones en personalización: checkout 100% editable solo en Shopify Plus (plan enterprise), restricciones en planes estándar.
+• Plantillas predeterminadas: limitaciones en diseño comparado con la flexibilidad total de WordPress/WooCommerce.
+• Integraciones complejas: conexiones con ERPs o sistemas heredados requieren desarrollo a medida o middleware adicional.
+• Incompatibilidad entre plugins: aplicaciones no siempre funcionan bien juntas, dependencia de desarrolladores para cambios menores.
+• Falta de innovación en I+D: necesita mejorar su departamento de investigación y desarrollo.
+• Sin integración nativa con WordPress: requiere configuración adicional para trabajar con ecosistema WordPress existente.
+• Menor flexibilidad que WooCommerce: solo puedes hacer cambios que Shopify permite.
+
+Oportunidades
+• Crecimiento del e-commerce: industria creció 17.1% en 2021, mercado global alcanzó $16.6 trillones en 2022.
+• Proyección de mercado: crecimiento esperado a $70.9 trillones para 2030.
+• Fusiones y adquisiciones: aumentar cuota de mercado mediante alianzas estratégicas con grandes empresas.
+• Iniciativas de sostenibilidad: opciones de envío verde y compensación de emisiones de carbono.
+• Expansión en mercados emergentes: penetración en nuevos territorios geográficos.
+• Mejora de integración con WordPress: capitalizar el ecosistema WordPress para usuarios híbridos.
+• Desarrollo de IA avanzada: expandir capacidades de Shopify Magic.
+• Headless commerce: crecimiento de arquitecturas desacopladas que integran Shopify con otros CMS.
+
+Amenazas
+• Competencia intensa: WooCommerce (líder en cuota de mercado), Magento, BigCommerce ofrecen alternativas competitivas.
+• WooCommerce como principal competidor: mayor flexibilidad, costos más bajos, control total del código.
+• Recesiones económicas: impactan significativamente las ventas e-commerce, consumidores más cautelosos.
+• Leyes de privacidad: regulaciones como GDPR, restricciones de transferencia de datos transfronterizos.
+• Ciberseguridad: ataques de hacking, pérdida monetaria y de credibilidad.
+• Avances tecnológicos de competidores: nuevas innovaciones pueden atraer clientes hacia otras plataformas.
+• Percepción de costos elevados: márgenes ajustados no absorben comisiones, empresas migran a alternativas más económicas.
+• Limitaciones para proyectos complejos: requisitos específicos de backend o integraciones complejas requieren control total del código que Shopify no ofrece.
