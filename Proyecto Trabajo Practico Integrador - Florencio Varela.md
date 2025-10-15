@@ -223,3 +223,54 @@ Amenazas
 • Avances tecnológicos de competidores: nuevas innovaciones pueden atraer clientes hacia otras plataformas.
 • Percepción de costos elevados: márgenes ajustados no absorben comisiones, empresas migran a alternativas más económicas.
 • Limitaciones para proyectos complejos: requisitos específicos de backend o integraciones complejas requieren control total del código que Shopify no ofrece.
+
+
+
+## Magento
+
+
+Fortalezas
+• Escalabilidad excepcional: capaz de gestionar catálogos con más de 10,000 productos, hasta 80,000 pedidos por hora y admite hasta 1 millón de productos.
+• Plataforma más potente del mercado: solución enterprise ideal para grandes proyectos de comercio electrónico complejos.
+• Personalización completa: control total sobre plantillas, extensiones, módulos, widgets y complementos.
+• Código abierto (Open Source): versión gratuita disponible con código completamente personalizable.
+• Multiidioma y multisitio nativo: permite gestionar múltiples tiendas desde una instancia, con varios idiomas y monedas.
+• Integraciones empresariales robustas: integración nativa con ERPs, Google Analytics, CRM y plataformas de gestión empresarial.
+• Seguridad y robustez de nivel enterprise: múltiples niveles de permisos, cumplimiento PCI Data Security, CAPTCHA integrado.
+• Comunidad establecida: más de 240,000 empresas usan Magento, con cientos de desarrolladores certificados y 800,000+ desarrolladores estimados.
+• Marketplace extenso: miles de plantillas y módulos disponibles, muchos gratuitos desde Magento Marketplace.
+• Respaldo de Adobe: ahora conocido como Adobe Commerce, con soporte y desarrollo continuo.
+
+Debilidades
+• Costos elevados: aunque Open Source es gratuito, requiere presupuesto considerable para hosting especializado, desarrollo, soporte y mantenimiento.
+• Versión premium muy costosa: Adobe Commerce puede superar fácilmente los €20,000 anuales.
+• Complejidad técnica extrema: requiere altos conocimientos técnicos, tiempo considerable y mucha práctica para dominar la plataforma.
+• No apto para usuarios no técnicos: curva de aprendizaje muy pronunciada, especialmente para quienes no tienen experiencia en desarrollo.
+• Alto consumo de recursos: requiere servidor robusto con mínimo 4GB RAM garantizada y más de 50GB almacenamiento.
+• Rendimiento exigente: naturaleza robusta demanda mayor capacidad de procesamiento y memoria.
+• Sin hosting incluido: necesario contratar hosting externo especializado, generalmente costoso.
+• Orientado a grandes empresas: no recomendado para pequeñas o medianas empresas sin presupuesto significativo.
+• Requiere equipo dedicado: necesita programadores y desarrolladores especializados para gestión y mantenimiento.
+• Sin integración nativa con WordPress: requiere desarrollo personalizado complejo para integrar con ecosistema WordPress existente.
+• Más costoso que WooCommerce: costos operativos bastante superiores en todos los aspectos.
+
+Oportunidades
+• Crecimiento del segmento enterprise: demanda creciente de soluciones robustas para grandes corporaciones.
+• Expansión en mercados internacionales: capacidades multiidioma y multisitio nativas son ventaja competitiva.
+• Integración B2B: oportunidades en el mercado Open Source B2B Ecommerce Platform.
+• Soluciones omnicanal: capacidad de integrar retail, e-commerce y marketplaces desde una plataforma.
+• Respaldo de Adobe: recursos y desarrollo continuo de Adobe para mejoras e innovación.
+• Migración desde plataformas obsoletas: empresas grandes buscan actualizar sistemas heredados.
+• Especialización en nichos complejos: industrias reguladas que requieren personalización extrema (farmacéuticas, finanzas, manufactura).
+• Headless commerce avanzado: arquitectura permite implementaciones desacopladas con APIs robustas.
+
+Amenazas
+• Competencia de WooCommerce: mayor facilidad de uso, integración perfecta con WordPress, costos significativamente menores.
+• Barrera de entrada alta: complejidad y costos alejan pequeñas y medianas empresas hacia alternativas más accesibles.
+• Shopify Plus como competidor: ofrece escalabilidad enterprise con facilidad de uso superior.
+• Plataformas SaaS modernas: Shopify, BigCommerce ofrecen soluciones enterprise más simples y económicas.
+• Escasez de desarrolladores especializados: pool limitado de expertos Magento certificados, costos de contratación elevados.
+• Percepción de complejidad innecesaria: proyectos medianos consideran Magento excesivo para sus necesidades.
+• Mantenimiento costoso: actualizaciones, parches y soporte requieren inversión continua significativa.
+• Incompatibilidad con WordPress: no puede integrarse fácilmente con proyectos WordPress existentes sin desarrollo complejo.
+• Nuevas plataformas headless: Strapi, Contentful, Commercetools ofrecen flexibilidad enterprise con menor complejidad.
