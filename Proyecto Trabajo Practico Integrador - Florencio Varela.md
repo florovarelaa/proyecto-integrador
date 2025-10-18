@@ -722,3 +722,37 @@ Oportunidades
 • Nicho de SaaS y mobile apps: especialización en productos digitales donde event tracking es crítico para optimización.
 • Expansion de IA predictiva: machine learning para predicción de churn, lifetime value, comportamiento futuro.
 • Compatibilidad con proyecto WordPress existente: integración mediante plugin WooCommerce para analítica e-commerce avanzada.
+
+
+## 2.3.1.6 Integración con Redes Sociales: Evaluación de Zapier, Hootsuite y Buffer.
+
+### 2.3.1.6.1 - DAFO - Zapier
+https://zapier.com/
+
+Debilidades
+• Pricing escalable costoso: modelo basado en tasks ejecutados, costos aumentan rápidamente con workflows complejos y frecuentes.
+• Plan gratuito muy limitado: solo 100 tasks/mes, Zaps limitados a 2 pasos (trigger-action), insuficiente para uso real.
+• Integraciones superficiales: cada conector ofrece solo acciones básicas, casos complejos requieren HTTP requests a APIs completas.
+• Menor personalización vs competidores: menos profundidad de customización comparado con Make (Integromat).
+• Plugin WooCommerce de pago: $59/año para integración oficial, costo adicional al subscription de Zapier.
+
+Amenazas
+• Make (Integromat) más económico: 10,000 operaciones por $9/mes vs 750 tasks por $19.99/mes de Zapier.
+• Activepieces open-source: 10× más tasks gratis, planes pagos más baratos con tasks ilimitados.
+• Integrately sin cobro por polling: no cobra por trigger checks, posicionamiento como alternativa asequible.
+• Microsoft Power Automate: alternativa para empresas Microsoft-centric con ecosistema integrado.
+• Desarrollo custom más viable: para power users, desarrollo propio puede ser más económico a largo plazo.
+
+Fortalezas
+• Líder del mercado automation: 7.05%-9.20% market share en integraciones, valoración $5 mil millones.
+• Revenue sólido: $310 millones en 2024 (+24% YoY), proyección $400 millones para 2025 (+29%).
+• Base de usuarios masiva: 3+ millones de usuarios, 100,000+ clientes pagos, 14,737+ empresas (2025).
+• Ecosistema gigante: 8,000+ apps integradas (2025), cobertura más amplia del mercado.
+• Integración oficial WooCommerce: 70+ triggers, 25+ actions, automatiza orders, subscriptions, customers, products.
+
+Oportunidades
+• IA generativa para automation: crear Zaps con prompts en lenguaje natural, simplifica setup para no-técnicos.
+• Expansión de features enterprise: Tables, Interfaces, Chatbots para equipos grandes de organizaciones.
+• Capitalizar proyecto WordPress existente: integración con WooCommerce para automatizar workflows e-commerce (sync orders, customers a CRM/email).
+• Mercado automation creciendo: demanda creciente de no-code/low-code automation en PyMEs.
+• Expansión a agentic AI: workflows inteligentes que toman decisiones autónomas basadas en contexto.
