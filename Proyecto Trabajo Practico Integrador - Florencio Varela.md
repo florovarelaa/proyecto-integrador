@@ -788,3 +788,35 @@ Oportunidades
 • Mercado social commerce creciendo: integración e-commerce con redes sociales es tendencia 2025.
 • Features enterprise diferenciadas: Tables, analytics avanzados, social listening pueden justificar premium pricing.
 • Expansión a nuevas plataformas: integración con plataformas emergentes (TikTok Shop, Instagram Shopping).
+
+
+### 2.3.1.6.3 - DAFO - Buffer
+https://buffer.com/
+
+Debilidades
+• Pricing per-channel costoso: $6/mes por canal, costos se acumulan rápidamente para equipos con múltiples cuentas sociales.
+• Features limitados vs competidores: no ofrece content repurposing, unified inbox, auto-posting RSS, bulk scheduling.
+• Plan gratuito muy restrictivo: 3 canales, 10 posts/mes por canal, sin analytics avanzados, sin engagement inbox.
+• Desconexiones frecuentes de cuentas: account management frustrante con necesidad constante de reconexión.
+• Sin plan enterprise robusto: plan Agency no tiene capabilities vitales (bulk scheduling, automation avanzada, reporting enterprise).
+
+Amenazas
+• Percepción de costos elevados y features anticuados: precios suben mientras competidores ofrecen AI tools, interfaces mejores, pricing más justo.
+• Competidores con unified inbox: Hootsuite, Sprout Social permiten responder comments/DMs desde dashboard.
+• Herramientas nativas de plataformas: Meta Business Suite, LinkedIn Scheduler gratis reducen necesidad de tools terceros.
+• Alternativas con AI avanzado: competidores integran AI generativo más robusto para content creation.
+• SocialPilot y otras alternativas: pricing más competitivo con features similares o superiores.
+
+Fortalezas
+• Pricing accesible para startups: plan Essentials $6/mes por canal es más económico que Hootsuite ($99/mes).
+• Crecimiento financiero sólido: $21.5M ARR en Q1 2025 (+6.74% YoY), crecimiento más fuerte desde Q2 2018, 64,273 clientes pagos.
+• Plan gratuito disponible: 3 canales con 10 posts/mes, accesible para PyMEs vs Hootsuite sin plan free.
+• Integración WordPress/WooCommerce: auto-post productos directamente desde sitio, scheduling inteligente via queue system.
+• Interfaz intuitiva moderna: UI superior a Hootsuite, dashboard limpio, calendario visual, fácil de usar.
+
+Oportunidades
+• Capitalizar proyecto WordPress/WooCommerce existente: automatizar publicaciones de productos a redes sociales sin esfuerzo manual.
+• Expansión de AI assistant: mejorar capacidades generativas para crear, refinar y repurpose content automáticamente.
+• Mercado social commerce: integración e-commerce con redes sociales es tendencia 2025, oportunidad para features especializados.
+• Desarrollo de unified inbox: agregar respuestas a comments/DMs directamente desde dashboard para competir mejor.
+• Expansión a nuevas plataformas: integración con Threads, Bluesky, Mastodon ya agregadas, continuar con plataformas emergentes.
