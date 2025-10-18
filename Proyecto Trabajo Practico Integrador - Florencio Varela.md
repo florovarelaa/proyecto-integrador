@@ -854,3 +854,35 @@ Oportunidades
 • Capitalizar proyecto WordPress existente: protección y aceleración para sitio e-commerce con configuración adecuada de exclusiones (cart/checkout).
 • Expansión de AI security: detección automatizada de botnets, "easy button" para bloquear AI bots disponible para free tier.
 • Edge computing growth: Cloudflare Workers para procesamiento edge, oportunidad de diferenciación vs CDN tradicionales.
+
+
+### 2.3.1.7.2 - DAFO - Sucuri
+https://sucuri.net/
+
+Debilidades
+• Sin plan gratuito: pricing desde $199.99/año, muy limitante para usuarios con presupuesto ajustado vs Cloudflare free.
+• Cobertura CDN limitada: menos ubicaciones de servidores comparado con Cloudflare u otros servicios CDN.
+• Configuración compleja para no-expertos: lenguaje confuso ("classless inter domain routing"), intimidante para principiantes.
+• Sistema de alertas problemático: limita emails a 5/hora, alertas críticas pueden perderse en flood de falsos alarmas.
+• Soporte deficiente reportado: usuarios mencionan soporte terrible, sitios dejando de funcionar, issues sin resolver por semanas.
+
+Amenazas
+• Cloudflare con plan gratuito robusto: ofrece DDoS protection, SSL, CDN gratis vs $199/año de Sucuri.
+• Wordfence como alternativa WordPress: plugin gratuito con WAF, firewall, malware scanner especializado en WordPress.
+• MalCare y alternativas: soluciones de seguridad WordPress con mejor UX y pricing competitivo.
+• Hosting con seguridad incluida: Kinsta, WP Engine incluyen protección malware/DDoS, reducen necesidad de Sucuri.
+• Percepción de pricing no justificado: $199/año cuestionado si efectividad de malware scanner/firewall es comparable a alternativas.
+
+Fortalezas
+• Especialización en WordPress: 95.5% de infecciones detectadas son WordPress (2023), expertise profundo en ecosistema WP.
+• Plugin gratuito popular: 700,000+ instalaciones activas, rating 4.2/5, auditoría de seguridad, malware detection, security hardening.
+• Cloud-based firewall efectivo: filtra tráfico antes de llegar al servidor, bloquea requests maliciosos, protege de ataques.
+• DDoS protection robusta: capacidad 2+ terabits/segundo, soporte HTTP/3, menos page delay durante ataques.
+• Integración compatible con WooCommerce: monitoring y gestión de seguridad para e-commerce, auditorías regulares.
+
+Oportunidades
+• Simplificación de configuración: mejorar UX para usuarios no-técnicos, reducir complejidad de términos intimidantes.
+• Plan freemium: ofrecer tier gratuito básico para competir con Cloudflare y atraer usuarios presupuesto limitado.
+• Capitalizar proyecto WordPress existente: protección especializada para WooCommerce con menos configuración que Cloudflare.
+• Expansión de cobertura CDN: agregar más ubicaciones de servidores para mejorar performance global.
+• Mejora de sistema de alertas: alertas inteligentes priorizadas, reducir falsos alarmas, notificaciones críticas garantizadas.
