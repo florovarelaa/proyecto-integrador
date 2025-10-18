@@ -501,3 +501,56 @@ Amenazas
 • Dependencia regional excesiva: falta de diversificación geográfica crea riesgo concentrado.
 • Comisiones poco competitivas vs Stripe: diferencia significativa puede alejar comerciantes.
 • Limitaciones pagos internacionales: comercios que venden globalmente preferirán PayPal/Stripe.
+
+
+### 2.3.1.4.2 - DAFO - Stripe
+https://stripe.com/
+
+Fortalezas
+• Líder global en pagos digitales: 17.15% de cuota de mercado global, 20.8% en procesamiento de pagos en EE.UU., 68.02% en plataformas de pago e-commerce estadounidenses.
+• Volumen gigantesco de transacciones: $1.4 trillones procesados en 2024 (crecimiento 38% año a año), crecimiento de pago total 833% desde 2019.
+• Valoración altísima: empresa valuada en $70-91.5 mil millones (2024-2025).
+• Alcance global excepcional: disponible en 46 países, soporta 135+ monedas y 100+ métodos de pago (tarjetas, transferencias, wallets, BNPL).
+• Comisiones competitivas: 2.9% + $0.30 para tarjetas domésticas, Checkout 0.4% con tope de $2 por factura, precios personalizados para empresas.
+• Integración con WooCommerce/WordPress: plugin oficial bien documentado, API potente y flexible para personalización.
+• Plataforma para grandes empresas: más de 100 clientes procesan más de $1 mil millones anualmente, 80% de las mayores empresas de software de EE.UU. usan Stripe.
+• Inteligencia artificial avanzada: Adaptive Acceptance recuperó $6 mil millones en rechazos falsos en 2024.
+• API best-in-class: documentación extensa, herramientas de desarrollo modernas (TypeScript, npm), facilita integración con cualquier plataforma.
+• Soporte 24/7 para clientes: atención al cliente disponible todo el tiempo.
+• Seguridad y cumplimiento: cumplimiento PCI-DSS, SCA (Strong Customer Authentication), protección contra fraudes avanzada.
+• Automatización completa: transferencias automáticas a cuenta bancaria sin acción manual del usuario.
+
+Debilidades
+• Disponibilidad geográfica limitada: solo en 46 países vs 202 de PayPal, menos presencia en América Latina comparado con Mercado Pago.
+• Menos popular en LATAM: 15 veces más popular globalmente que Mercado Pago, pero menos conocido y confiado en región latinoamericana.
+• Comisiones internacionales adicionales: +1% para tarjetas internacionales, +1% por conversión de divisas.
+• Complejidad para principiantes: API potente pero requiere conocimientos técnicos para implementaciones avanzadas.
+• No tan integrado con WordPress: dashboard separado, no tan integrado nativamente en WordPress como WooCommerce Payments.
+• Vulnerabilidad a ataques card testing: uso de API keys puede exponer a ataques de prueba de tarjetas robadas si no se configura correctamente.
+• Sin pagos en efectivo: no soporta métodos de pago offline como Oxxo, PagoFácil (crucial en LATAM).
+• Dependencia de infraestructura bancaria tradicional: menos flexible para población no bancarizada.
+• Menor confianza del consumidor LATAM: usuarios prefieren soluciones locales conocidas en su moneda.
+
+Oportunidades
+• Expansión a mercados emergentes: América Latina, Asia, África con adopción digital creciente.
+• Crecimiento del e-commerce global: mercado global alcanzó $16.6 trillones en 2022, proyección $70.9 trillones para 2030.
+• Integración más profunda con WordPress/WooCommerce: capitalizar el ecosistema WordPress más grande del mundo (43%+ de sitios web).
+• Expansión de IA: capacidades de machine learning para optimización de pagos, detección de fraudes, personalización.
+• Partnerships estratégicos: alianzas con plataformas e-commerce, ERPs, CRMs, sistemas de contabilidad.
+• Embedded finance: permitir a empresas integrar servicios financieros en sus productos (Banking-as-a-Service).
+• Desarrollo de Stripe Checkout: mejorar experiencia de pago sin redirigir fuera del sitio.
+• Headless commerce: crecimiento de arquitecturas desacopladas donde Stripe es pasarela ideal.
+• Criptomonedas y blockchain: expansión hacia métodos de pago emergentes.
+• Capitalizar proyecto existente: fácil integración con infraestructura WordPress/WooCommerce ya desarrollada.
+
+Amenazas
+• Competencia intensa de PayPal: PayPal domina con 43.4% de cuota de mercado en EE.UU. vs 20.8% de Stripe.
+• Mercado Pago en LATAM: dominio regional de Mercado Pago con 20% de cuota, confianza local establecida.
+• Competidores regionales: Adyen, Square, Braintree ofrecen alternativas competitivas.
+• Regulaciones de pagos cambiantes: leyes de privacidad (GDPR), restricciones de transferencia de datos transfronterizos, costos de compliance.
+• Ciberseguridad y fraudes: ataques de hacking, vulnerabilidad a card testing, pérdida de credibilidad si ocurren brechas.
+• Volatilidad económica global: recesiones impactan volumen de transacciones e-commerce.
+• Barreras de entrada geográficas: imposibilidad de competir efectivamente en mercados donde no está disponible.
+• Comisiones percibidas como altas: márgenes ajustados de pequeños comercios no absorben comisiones fácilmente.
+• Blockchain y criptomonedas: disrupción potencial de métodos de pago descentralizados.
+• WooCommerce Payments como competidor: solución nativa de WordPress con mejor integración dashboard, comisiones internacionales menores (2% vs 3.25% de Stripe).
