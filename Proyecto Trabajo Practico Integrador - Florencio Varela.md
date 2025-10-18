@@ -918,3 +918,69 @@ Oportunidades
 • Capitalizar proyecto WordPress/WooCommerce existente: migración gratuita, managed hosting elimina overhead técnico, performance garantizado.
 • Email hosting integrado: ofrecer email hosting nativo para evitar dependencia de third-party providers.
 • Expansión a edge computing: aprovechar infraestructura Google Cloud para features edge/serverless diferenciados.
+
+
+## 2.3.1.8 Hosting especializado: Evaluación de WP Engine, SiteGround y AWS.
+
+### 2.3.1.8.1 - DAFO - WP Engine
+https://wpengine.com/
+
+Debilidades
+• Visitor limits bajos: plan Startup 25,000 visits/mes, muy bajo vs competidores, overages $1-2 por 1,000 visits extra.
+• Storage limitado: solo 10/20/30 GB vs competidores con unlimited storage a fracción del precio.
+• Sin email ni dominios: requiere third-party host, esencial para clientes que quieren registro email/dominio en mismo proveedor.
+• Plugin restrictions: deshabilita backup/cache plugins, puede limitar flexibilidad para usuarios avanzados.
+• No ideal para principiantes/pequeños: limitaciones de recursos y falta de servicios email significativas para solo bloggers/newbies.
+
+Amenazas
+• Kinsta con mejor performance: Google Cloud premium-tier, 200% WooCommerce speed boost, Cloudflare Enterprise incluido.
+• SiteGround más económico: email hosting incluido, phone support, mejor para múltiples sitios pequeños.
+• Hostinger con pricing masivo: 64.64% market share WordPress hosting, alternativa económica domina mercado.
+• Shared hosting para startups: Bluehost, HostGator ofrecen WordPress desde $2-5/mes, atractivo para presupuestos limitados.
+• Percepción pricing elevado: reviewers destacan costo alto no alineado con presupuesto/valor percibido de PyMEs.
+
+Fortalezas
+• Base de clientes sólida: 112,780+ empresas usan WP Engine (2025), 1.5%-2.1% de todos los websites, 83,370 clientes en EE.UU.
+• Performance excepcional: EverCache technology + managed CDN = 40% faster website speeds, top ranking en speed tests.
+• WooCommerce optimizado: Elasticsearch incluido, Smart Plugin Manager auto-updates con rollback automático, dedicated WooCommerce installer.
+• Soporte expert 24/7: especialistas WordPress/WooCommerce reales, no reps genéricos, fully managed maintenance tasks.
+• Bundled features premium: StudioPress themes incluidos, uptime 99.9%, DDoS protection, free migrations 63% de planes.
+
+Oportunidades
+• Mercado managed WordPress creciendo: proyectado $10.9 mil millones para 2026 (CAGR 11.4%), managed hosting demand 12% CAGR.
+• Plan tier económico: crear starter plan más asequible para competir en segmento PyMEs/startups con presupuesto limitado.
+• Email hosting integrado: agregar servicios email/dominio nativos para evitar dependencia third-party providers.
+• Capitalizar proyecto WordPress/WooCommerce existente: migración gratuita, fully managed elimina overhead, performance/seguridad garantizados.
+• Expansión bundled tools e-commerce: incluir más plugins WooCommerce premium (como Nexcess con Iconic, Dokan, Glew) para justificar pricing.
+
+
+### 2.3.1.8.2 - DAFO - SiteGround
+https://www.siteground.com/
+
+Debilidades
+• Renewal pricing explosivo: plan StartUp $2.99-3.99/mes primer año, salta a $17.99/mes renovación (350% aumento), percepción negativa.
+• Storage limitado: solo 10 GB plan StartUp, límites en todos los planes vs competidores con unlimited storage.
+• Database limit 100MB: límite para shared hosting no claramente declarado al signup, restrictivo para WooCommerce stores.
+• Limitaciones técnicas confusas: caps en CPU executions, server memory, inodes difíciles de entender para no-developers.
+• Sin domain name gratuito: requiere compra $17.99, competidores lo incluyen con planes anuales.
+
+Amenazas
+• Hostinger más económico: pricing agresivo sin renewal spikes, 59.16% market share WordPress hosting.
+• Kinsta/WP Engine para alto tráfico: mejor performance para sites enterprise, aunque más caros inicialmente.
+• Bluehost/HostGator pricing transparente: sin renewal shocks de 350%, mejor para presupuestos predecibles.
+• Percepción de hidden costs: add-ons, renewal rates, overages impactan budget, alejan usuarios cost-conscious.
+• Cloud hosting competidores: AWS, Google Cloud, DigitalOcean con pricing más predecible y flexibilidad infinita.
+
+Fortalezas
+• Pricing inicial atractivo: $2.99-3.99/mes primer año accesible para startups, bajo barrier to entry.
+• Performance excepcional: uno de los fastest WordPress hosts, SuperCacher + NGINX static/dynamic cache, SSD hosting 45% faster.
+• Email hosting incluido: único entre managed hosts, no requiere third-party provider como Kinsta/WP Engine.
+• Uptime excelente: 99.98% uptime, way over 99.95% standard, reliability extraordinaria consistente.
+• WooCommerce pre-instalado: paquetes con WooCommerce + Storefront theme ready, free SSL/CDN Cloudflare, security robusta.
+
+Oportunidades
+• Pricing renewal transparente: eliminar renewal shock de 350%, pricing más justo aumentaría retention y percepción positiva.
+• Capitalizar proyecto WordPress/WooCommerce existente: migración fácil, performance + email hosting incluido elimina necesidad múltiples providers.
+• Plan mid-tier competitivo: crear tier entre StartUp y premium que compita mejor con Kinsta/WP Engine en performance/features.
+• Expansión storage plans: ofrecer más storage en planes básicos para competir con unlimited storage de competidores.
+• Bundled WooCommerce tools: incluir plugins e-commerce premium para justificar pricing y competir con managed hosts especializados.
