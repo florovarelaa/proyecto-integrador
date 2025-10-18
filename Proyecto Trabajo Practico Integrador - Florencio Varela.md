@@ -984,3 +984,35 @@ Oportunidades
 • Plan mid-tier competitivo: crear tier entre StartUp y premium que compita mejor con Kinsta/WP Engine en performance/features.
 • Expansión storage plans: ofrecer más storage en planes básicos para competir con unlimited storage de competidores.
 • Bundled WooCommerce tools: incluir plugins e-commerce premium para justificar pricing y competir con managed hosts especializados.
+
+
+### 2.3.1.8.3 - DAFO - AWS (Amazon Web Services)
+https://aws.amazon.com/
+
+Debilidades
+• Pricing extremadamente complejo: estructura opaca, billing reports con billions de line-items, cada servicio con modelo diferente, genera incertidumbre financiera.
+• Costos impredecibles: pay-as-you-go causa bills inesperados, startups reportan escalación de $50/mes POC a cifras de 4 dígitos mensuales.
+• Curva de aprendizaje pronunciada: complejidad abrumadora incluso para developers experimentados, 180+ servicios con configuraciones detalladas.
+• Requires expertise costoso: demand alta de AWS-certified experts, difícil/caro contratar talento calificado, PyMEs sin in-house specialist luchan.
+• Hidden costs sorpresa: data transfer charges, storage API fees, region-specific costs causan aumentos 300-400%, IPv4 addresses ahora cobradas desde Feb 2024.
+
+Amenazas
+• Managed WordPress hosts más simples: Kinsta, WP Engine, SiteGround eliminan complejidad técnica con pricing predecible.
+• DigitalOcean/Linode simplicidad: alternativas cloud con pricing transparente y UX más amigable para developers.
+• Google Cloud y Azure: competidores directos con 20% y 13% market share respectivamente, pricing más competitivo en ciertos servicios.
+• Percepción de overkill para PyMEs: small businesses consideran AWS demasiado complejo/caro para needs básicos WordPress/WooCommerce.
+• Serverless alternatives: Vercel, Netlify, Cloudflare Pages ofrecen deployment más simple para sitios estáticos/JAMstack.
+
+Fortalezas
+• Dominio absoluto del mercado: 30% worldwide cloud infrastructure market share, líder indiscutido sobre Azure (20%) y Google Cloud (13%).
+• Revenue masivo: $107.56 mil millones en 2024, $29 mil millones Q1 2025, crecimiento sostenido consistente.
+• Customer base gigante: 4.19 millones de clientes (2025), SMBs/startups creciendo 28% YoY, startups +257% desde 2020.
+• Escalabilidad infinita: EC2 con 400+ instance types, flexibility completa, soporta desde hobby projects hasta enterprise workloads masivos.
+• Lightsail para WordPress: pricing predecible desde $3.50/mes, setup rápido, soporte WooCommerce, ideal para comenzar sin complejidad AWS full.
+
+Oportunidades
+• Mercado cloud creciendo: cloud infrastructure spending $99 mil millones Q2 2025 (+25% YoY), proyección superar $400 mil millones en 2025.
+• Simplificación de pricing: transparencia mejorada reduciría friction para SMBs, calculadoras más intuitivas aumentarían adoption.
+• Managed WordPress offerings: crear servicio fully managed WordPress/WooCommerce que compita con Kinsta/WP Engine eliminando complejidad.
+• Capitalizar proyecto WordPress existente: Lightsail con bitnami WordPress permite migración rápida con control completo y escalabilidad futura a EC2.
+• SMB/startup growth: segmento fastest-growing (28% YoY), crear tiers simplificados específicamente para este mercado aumentaría penetración.
