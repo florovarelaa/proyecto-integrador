@@ -346,5 +346,56 @@ Amenazas
 ## 2.3.1.3.2 - DAFO - Gutenberg
 https://wordpress.org/gutenberg/
 
+Fortalezas
+• Nativo de WordPress: integración perfecta sin problemas de compatibilidad, experiencia fluida garantizada.
+• Completamente gratuito: incluido en el núcleo de WordPress sin costos adicionales.
+• Código limpio y liviano: produce código más eficiente que page builders, sitios generalmente cargan más rápido.
+• Interfaz intuitiva y visual: editor WYSIWYG (What You See Is What You Get), backend similar al front-end.
+• Enfoque modular con bloques: cada elemento (párrafos, imágenes, videos, listas) es un bloque independiente personalizable.
+• Bloques reutilizables: permite guardar combinaciones de contenido para reutilizar en múltiples páginas, ahorrando tiempo y asegurando consistencia.
+• Curva de aprendizaje corta: más fácil de aprender que el editor clásico, especialmente para principiantes.
+• Cerca de 100 bloques de contenido: amplia variedad de tipos de contenido disponibles.
+• Totalmente responsive: excelente adaptación a dispositivos móviles y tabletas.
+• Herramientas de desarrollo modernas: soporte nativo TypeScript, npm para desarrolladores.
+• No afecta rendimiento: optimizado para blogs y entradas, mantiene velocidad del sitio.
+• Ecosistema en crecimiento: nuevos bloques aparecen constantemente en el directorio de plugins WordPress.
+
+Debilidades
+• No es un page builder completo: solo permite editar contenido por bloques desde panel de administración, no desde frontal del sitio.
+• Limitado vs page builders avanzados: está muy lejos de Elementor o Divi en personalización sin código.
+• Curva de aprendizaje inicial: usuarios del editor clásico necesitan tiempo de adaptación, muchos botones pueden abrumar al principio.
+• Funcionalidades limitadas para diseño complejo: carece de opciones avanzadas de diseño que ofrecen page builders de terceros.
+• Problemas de compatibilidad: plugins/temas antiguos pueden no ser totalmente compatibles.
+• Atajos no funcionales: muchos shortcuts del editor clásico ya no funcionan.
+• Percepción aún pobre: en áreas clave visibles puede ser obstáculo para usuarios que quieren migrar a WordPress.
+• Problemas de rendimiento con bloques reutilizables masivos: miles de bloques reutilizables causan lentitud, inserter popup tarda segundos en abrir.
+• Diseño aún en desarrollo: tensión entre hacer bloques claros sin distraer a usuarios mientras crean/escriben.
+• Opiniones divididas: genera opiniones encontradas, algunos lo aman, otros lo odian.
+
+Oportunidades
+• Full Site Editing (FSE): capacidad de diseñar 100% del sitio incluyendo headers, footers y template parts personalizados.
+• Expansión más allá de posts: cada actualización aumenta capacidades hacia edición completa de sitios.
+• Integración de IA y Machine Learning: potencial para sugerir layouts de bloques, auto-generar contenido, optimizar imágenes.
+• Block Patterns: grupos prediseñados de bloques que simplifican diseño y aumentan creatividad para todos los niveles.
+• Reducción de dependencia de page builders: FSE reduce necesidad de plugins de terceros.
+• Mejora de rendimiento: codificación nativa eficiente mejora velocidad general.
+• Future-proof: WordPress continúa mejorando FSE constantemente.
+• Ecosistema de bloques creciente: directorio de plugins WordPress con nuevos bloques regularmente.
+• Capitalizar proyecto WordPress existente: aprovechar que es nativo, sin dependencias externas.
+• Adopción masiva garantizada: al ser nativo, todos los sitios WordPress lo tienen disponible.
+
+Amenazas
+• Guerra con page builders de terceros: competencia directa con Elementor, Divi, Beaver Builder establecidos.
+• Seguidores dedicados de competidores: page builders tienen comunidades leales con features que usuarios finales quieren.
+• Incompatibilidad de temas: temas mal codificados pueden causar fallos del editor.
+• Conflictos con plugins: plugins mal desarrollados pueden romper funcionalidad.
+• División de la comunidad WordPress: impacto del FSE puede dividir comunidad ampliamente.
+• Recursos de servidor insuficientes: servidores débiles pueden afectar rendimiento del editor.
+• Versiones de WordPress desactualizadas: instalaciones antiguas causan mal funcionamiento.
+• Resistencia al cambio: usuarios acostumbrados al editor clásico o page builders pueden resistirse a adopción.
+• Expectativas no cumplidas: si FSE no alcanza promesas, usuarios pueden abandonar hacia alternativas.
+• Complejidad creciente: a medida que añade features para competir, puede perder simplicidad original.
+
+
 ## 2.3.1.3.3 - DAFO - Divi Builder
 https://www.elegantthemes.com/gallery/divi/
