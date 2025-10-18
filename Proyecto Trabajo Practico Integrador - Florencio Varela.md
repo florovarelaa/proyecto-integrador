@@ -1,19 +1,19 @@
 # 2.1 Investigación del sistema actual
 
 El sistema actual:
-* está desarrollado en WordPress
+* Está desarrollado en WordPress
 
-* usa distintos plugins
+* Usa distintos plugins
 
-- elementor:  maquetador de página usando arrastrar y soltar. Usa el tema de hello elementor
+- Elementor:  maquetador de página usando arrastrar y soltar. Usa el tema de hello elementor
 
-- woocomerce: plugin gratis para WordPress que le agrega funcionalidad de e-commerce al sitio
+- WooComerce: plugin gratis para WordPress que le agrega funcionalidad de e-commerce al sitio
 
 * Really Simple SSL: Plugin ligero sin configuraciones que hace que tu sitio wordpress cargue con SSL
 
-* storecustomizer: sirve para customizar woocommerce sin la necesidad de escribir codigo
+* Storecustomizer: sirve para customizar woocommerce sin la necesidad de escribir codigo
 
-* multimedia: Es donde se almacenan en WordPress imágenes, videos, documentos, que se suben al sitio con el uso de elementor
+* Multimedia: Es donde se almacenan en WordPress imágenes, videos, documentos, que se suben al sitio con el uso de elementor
 
 # 2.3 DAFO sobre las herramientas investigadas
 ## 2.3.1 Identificación de debilidades, amenazas, fortalezas y oportunidades para cada una de las herramientas evaluadas
@@ -144,6 +144,7 @@ Amenazas
 ## 2.3.1.2 Tienda virtual: Evaluación de WooCommerce, Shopify y Magento.
 
 ### 2.3.1.2.1 - DAFO - WooCommerce
+https://woocommerce.com/
 
 Fortalezas
 • Gratuito y código abierto: sin costos de licencia inicial, altamente accesible para todo tipo de negocios.
@@ -190,6 +191,7 @@ Amenazas
 
 
 ## 2.3.1.2.2 - DAFO - Shopify
+https://www.shopify.com/
 
 Fortalezas
 • Plataforma totalmente alojada (hosted): infraestructura completa incluida, sin necesidad de contratar hosting externo ni gestionar servidores.
@@ -238,6 +240,7 @@ Amenazas
 
 
 ## 2.3.1.2.3 - DAFO - Magento
+https://magento.com/
 
 Fortalezas
 • Escalabilidad excepcional: capaz de gestionar catálogos con más de 10,000 productos, hasta 80,000 pedidos por hora y admite hasta 1 millón de productos.
@@ -288,5 +291,60 @@ Amenazas
 ## 2.3.1.3 Diseño visual: Evaluación de Elementor, Gutenberg y Divi Builder.
 
 ## 2.3.1.3.1 - DAFO - Elementor
+https://elementor.com/
+
+Fortalezas
+• Líder absoluto del mercado: #1 WordPress page builder, 10.1 millones de sitios usan Elementor, 3.6+ millones usan Elementor Pro.
+• Facilidad de uso excepcional: editor drag-and-drop intuitivo, edición en vivo front-end, diseño como "jugar con bloques".
+• Versión gratuita potente: plugin principal gratuito ofrece aproximadamente 90% de funcionalidad, no requiere Pro para uso básico-medio.
+• Biblioteca extensa: acceso a 300+ plantillas prediseñadas y 100+ widgets de contenido.
+• Comunidad masiva: miles de tutoriales YouTube/blogs, miles de add-ons de terceros, grupos dedicados Facebook/Reddit.
+• Compatibilidad universal: funciona con todos los temas de WordPress, reduciendo problemas de incompatibilidad.
+• Reconocimiento de marca fuerte: reputación establecida que dificulta entrada de nuevos competidores.
+• Integración con WooCommerce: compatible con plugins populares de WordPress y e-commerce.
+• Actualizaciones regulares: desarrollo activo con nuevos widgets y solución de errores constantes.
+• Mejor integración con Gutenberg: puedes crear páginas con Gutenberg y cambiar a Elementor con un clic.
+• Características avanzadas en Pro: Theme Builder, Popup Builder, Motion Effects, Dynamic Content.
+
+Debilidades
+• Problemas con actualizaciones: lanzamientos de versiones nuevas frecuentemente causan errores y pueden romper páginas diseñadas.
+• Soporte técnico pésimo: usuarios se quejan de no recibir respuestas o tardan demasiado en contestar.
+• Interfaz desactualizada: UI anticuada que dificulta el uso en ocasiones.
+• Sin licencia de por vida: modelo de suscripción anual únicamente, sin opción de pago único.
+• Impacto en rendimiento: puede sobrecargar código del sitio, afectando velocidad de carga si no está optimizado.
+• Plataforma envejeciendo: competidores más nuevos (Breakdance, Bricks) han construido page builders más rápidos y avanzados.
+• Implementación Flexbox buggy: contenedores Flex añadidos a código base existente presentan errores.
+• Widgets limitados: faltan widgets para algunas funcionalidades, widgets existentes carecen de características avanzadas.
+• Conflictos de compatibilidad: temas mal codificados o muy específicos pueden generar conflictos con Elementor.
+• Curva de aprendizaje inicial: puede ser abrumador para usuarios sin experiencia previa en diseño web.
+• Dependencia de add-ons terceros: necesidad de plugins adicionales para funcionalidades avanzadas.
+
+Oportunidades
+• Mercado WordPress masivo: WordPress impulsa 43%+ de todos los sitios web, mercado potencial enorme.
+• Mercado valorado en $3.4 billones (2024): espacio significativo para crecimiento de ingresos.
+• Integración de IA: herramientas AI recientemente introducidas para crear contenido, imágenes y código.
+• Expansión de características avanzadas: potencial de desarrollo en Theme Builder, popups, animaciones y contenido dinámico.
+• Integración mejorada con WooCommerce: crecimiento del sector e-commerce ofrece oportunidades.
+• Diversificación a mercados adyacentes: expansión hacia nichos específicos o verticales.
+• Capitalización de proyecto WordPress existente: aprovechar familiaridad del equipo con ecosistema WordPress.
+• Educación y certificaciones: programas de training para profesionales y agencias.
+• Marketplace de plantillas: monetización adicional mediante templates premium.
+
+Amenazas
+• Competencia intensa: Divi, Wix, Squarespace, Framer, Envato compiten por cuota de mercado.
+• Competidores más modernos y rápidos: Breakdance, Bricks han aprendido de debilidades de Elementor, ofrecen soluciones superiores.
+• Gutenberg como nativo de WordPress: editor de bloques integrado mejora constantemente, reduce necesidad de page builders.
+• Amenaza de nuevos entrantes: ecosistema WordPress vasto permite entrada constante de competidores.
+• Sustitutos significativos: agencias de desarrollo full-service, freelancers que construyen sitios custom desde cero (mercado $45 billones globalmente en 2024).
+• Declive de cuota de mercado: crecimiento se ha nivelado, cuota de mercado incluso ha disminuido ligeramente.
+• Presión competitiva en la industria: impacta seguridad laboral y crea presión para desempeño.
+• Código base legacy: arquitectura antigua dificulta implementación de tecnologías modernas.
+• Alternativas gratuitas mejorando: Gutenberg y otros page builders gratuitos aumentan capacidades.
+• Cambios en estrategia de WordPress: decisiones de Automattic/WordPress.org pueden afectar ecosistema de plugins.
+
+
 ## 2.3.1.3.2 - DAFO - Gutenberg
+https://wordpress.org/gutenberg/
+
 ## 2.3.1.3.3 - DAFO - Divi Builder
+https://www.elegantthemes.com/gallery/divi/
