@@ -399,3 +399,51 @@ Amenazas
 
 ## 2.3.1.3.3 - DAFO - Divi Builder
 https://www.elegantthemes.com/gallery/divi/
+
+Fortalezas
+• Gran presencia en el mercado: #3 en mejores WordPress page builders, más de 2.3 millones de sitios web activos (octubre 2023).
+• Biblioteca de plantillas masiva: más de 2,500 layouts organizados en 343 packs, cubriendo casi cualquier tipo de negocio.
+• Licencia generosa: permite uso ilimitado de sitios web con opciones de pago anual o de por vida.
+• Interfaz flexible: ofrece más flexibilidad que Elementor, aunque con mayor curva de aprendizaje.
+• Más de 40 módulos integrados: permite crear casi cualquier funcionalidad sin necesidad de infinidad de plugins.
+• Theme Builder: sistema que permite modificar y adaptar cualquier tema fácilmente.
+• Portabilidad: módulos exportables en JSON e importables a cualquier otro proyecto Divi.
+• Personalización CSS avanzada: permite editar CSS directamente, modificar tipografías, colores, tamaños y espacios.
+• Integración con WooCommerce: características específicas para construir tiendas compatibles con WooCommerce.
+• Actualizaciones constantes: Elegant Themes realiza promedio de 20 actualizaciones al año.
+• Comunidad grande y activa: abundancia de instrucciones, videos y soporte comunitario.
+
+Debilidades
+• Problemas de rendimiento: muchos usuarios reportan problemas de performance en Google y foros de WordPress.
+• Basado en shortcodes: cada shortcode requiere código procesamiento, generando lentitud antes de mostrar output.
+• Markup HTML complejo: afecta rendimiento web y SEO, archivos más grandes y tiempos de carga más lentos.
+• Sin soporte visual Flexbox: no ofrece soporte Flexbox en interfaz de usuario, quedando atrás en layout moderno.
+• Lock-in de contenido: cuando Divi está inactivo, el contenido basado en shortcodes deja de ser usable.
+• Requiere add-ons para funciones avanzadas: necesita instalar más extensiones/plugins para ir más allá de lo básico, generando bloat.
+• Curva de aprendizaje pronunciada: numerosas opciones pueden resultar abrumadoras al inicio.
+• No tiene versión gratuita: no ofrece versión free ni trial gratuito, a diferencia de Elementor.
+• Menos intuitivo que Elementor: interfaz más compleja para usuarios principiantes.
+• Requiere experiencia previa: necesario tener experiencia en WordPress, preferiblemente conocimientos de programación.
+• Arquitectura legacy envejeciendo: software antiguo intentando evolucionar mientras mantiene compatibilidad hacia atrás.
+
+Oportunidades
+• Divi AI: herramienta de inteligencia artificial integrada que genera/refina imágenes y textos, ayuda a escribir código.
+• Revamp reciente: rediseño mayor hace años mejoró significativamente rendimiento y añadió features avanzadas de diseño.
+• Base de usuarios establecida: ecosistema extenso ofrece oportunidades para crecimiento comunitario y extensiones de terceros.
+• Demanda creciente de page builders visuales: oportunidad de capturar cuota de mercado de desarrollo WordPress tradicional.
+• Modelo de licencia de por vida: atractivo para agencias y desarrolladores con múltiples proyectos.
+• Expansión de funcionalidades IA: potencial para desarrollar más capacidades de inteligencia artificial.
+• Mejora de rendimiento: oportunidad de optimizar arquitectura para competir con builders más modernos.
+• Especialización en nichos: enfocarse en sectores específicos donde las 2,500 plantillas ofrecen ventaja.
+
+Amenazas
+• Declive notable de mercado: tasa de crecimiento nunca igualó a Elementor a pesar de tener 3 años de ventaja inicial.
+• Competencia de Elementor: ahora #2 en el mercado, superó a Divi a pesar de llegar después.
+• Competidores modernos más rápidos: Bricks gana popularidad rápidamente con rendimiento ultrarrápido y estructura ligera.
+• Gutenberg nativo mejorando: editor de bloques de WordPress es el más ligero y rápido, parte del Core.
+• Problema de compatibilidad hacia atrás: intentar evolucionar solución antigua mientras mantiene base de instalaciones grande.
+• Builders modernos ofrecen features integradas: competencia ofrece constructores especializados para headers, menús, forms, popups donde Divi va rezagado.
+• Percepción de lentitud: reputación de problemas de rendimiento puede alejar nuevos usuarios.
+• Shortcodes obsoletos: arquitectura basada en shortcodes es anticuada y problemática.
+• Sin versión gratuita limita adopción: usuarios prueban Elementor gratis primero, dificulta captación de nuevos usuarios.
+• Falta de soporte Flexbox: tecnologías modernas de layout no soportadas, quedando atrás técnicamente.
