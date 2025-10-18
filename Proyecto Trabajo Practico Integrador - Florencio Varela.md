@@ -886,3 +886,35 @@ Oportunidades
 • Capitalizar proyecto WordPress existente: protección especializada para WooCommerce con menos configuración que Cloudflare.
 • Expansión de cobertura CDN: agregar más ubicaciones de servidores para mejorar performance global.
 • Mejora de sistema de alertas: alertas inteligentes priorizadas, reducir falsos alarmas, notificaciones críticas garantizadas.
+
+
+### 2.3.1.7.3 - DAFO - Kinsta
+https://kinsta.com/
+
+Debilidades
+• Pricing elevado: $35/mes plan inicial vs $15-20/mes WP Engine, más caro per-site que competidores principales.
+• Resource caps bajos en planes básicos: Starter/Pro con solo 2 PHP Workers, no recomendado para e-commerce, WooCommerce requiere plan Business 1 ($115/mes).
+• Sin email hosting: requiere third-party provider (Google Workspace), SiteGround lo incluye, costo adicional para usuarios.
+• Sin bundled features: competidores incluyen themes/plugins (WP Engine StudioPress, Liquid Web iThemes), Kinsta solo hosting.
+• Sin phone support: solo chat/tickets, SiteGround ofrece soporte telefónico.
+
+Amenazas
+• WP Engine más asequible: pricing per-site decrece más rápido, add-on sites evitan pagar planes desperdiciados.
+• SiteGround para múltiples sitios pequeños: más económico para hobby sites/múltiples sitios casuales.
+• Shared hosting mucho más barato: Bluehost, Hostinger ofrecen WooCommerce hosting desde $2-5/mes para startups.
+• Hostinger con pricing agresivo: 59.16% market share WordPress hosting, alternativa económica masiva.
+• Percepción de costo prohibitivo: PyMEs consideran overages caros ($1/1,000 visits, $2/GB storage, $0.10/GB CDN).
+
+Fortalezas
+• Performance excepcional: Google Cloud premium-tier, uno de los managed WordPress hosts más rápidos, WooCommerce 200% speed boost.
+• Base de clientes sólida: 120,000+ clientes en 128 países, 63,698+ empresas usan Kinsta (2025), 9.71% market share WordPress hosting.
+• Cloudflare Enterprise incluido: CDN global, DDoS protection, HTTP/3, SSL automático, edge caching en todos los planes.
+• Managed WooCommerce optimizado: caching específico para e-commerce (no cachea cart pages), configuración optimizada out-of-the-box.
+• Seguridad certificada: SOC2 certified, ISO 27001 (2024), containers aislados por sitio, backups automáticos diarios.
+
+Oportunidades
+• Plan tier económico para PyMEs: crear starter plan más asequible para competir con SiteGround/WP Engine en segmento budget.
+• Bundling de features: agregar themes/plugins premium incluidos para justificar pricing premium vs competidores.
+• Capitalizar proyecto WordPress/WooCommerce existente: migración gratuita, managed hosting elimina overhead técnico, performance garantizado.
+• Email hosting integrado: ofrecer email hosting nativo para evitar dependencia de third-party providers.
+• Expansión a edge computing: aprovechar infraestructura Google Cloud para features edge/serverless diferenciados.
