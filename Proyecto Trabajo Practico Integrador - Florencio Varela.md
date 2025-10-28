@@ -15,6 +15,98 @@ El sistema actual:
 
 * Multimedia: Es donde se almacenan en WordPress imágenes, videos, documentos, que se suben al sitio con el uso de elementor
 
+# 2.2 Investigación y evaluación de tecnologías y servicios
+
+## 2.2.1 CMS: Investigación y Análisis de WordPress, Drupal y Joomla
+
+Un Sistema de Gestión de Contenidos (CMS) es una plataforma que permite crear, gestionar y modificar contenido digital sin necesidad de conocimientos técnicos avanzados. Para el proyecto DEA, el CMS será el núcleo de la plataforma donde operarios podrán actualizar información de productos, gestionar el catálogo de economizadores, y administrar el contenido del sitio de manera dinámica.
+
+### WordPress
+WordPress es un sistema de gestión de contenidos (CMS) open-source que impulsa el 43% de todos los sitios web del mundo, ofreciendo una interfaz intuitiva con miles de plugins y temas. Permite crear desde blogs simples hasta sitios complejos de e-commerce mediante extensiones como WooCommerce, sin necesidad de conocimientos avanzados de programación. Para el proyecto DEA, WordPress facilitaría la gestión dinámica del contenido, actualización de información de productos por parte de operarios, e integración de una tienda virtual mediante su ecosistema extenso.
+
+### Drupal
+Drupal es un CMS open-source orientado a proyectos enterprise complejos que requieren personalización avanzada, seguridad robusta y escalabilidad masiva. Ofrece control granular sobre permisos, taxonomías complejas y arquitecturas flexibles, pero demanda conocimientos técnicos significativos para su implementación y mantenimiento. En el contexto de DEA, Drupal permitiría construir un sistema altamente personalizado con múltiples roles de operarios, flujos de trabajo complejos y gestión avanzada de datos de clientes, aunque con mayor curva de aprendizaje.
+
+### Joomla
+Joomla es un CMS open-source de nivel intermedio entre WordPress y Drupal, ofreciendo más flexibilidad que WordPress pero con menor complejidad que Drupal. Cuenta con gestión nativa de usuarios con roles, sistema de categorización avanzado y capacidades multilenguaje integradas sin plugins adicionales. Para DEA, Joomla facilitaría la implementación de un sistema multilenguaje para expansión internacional, gestión de diferentes tipos de usuarios (clientes, operarios, administradores) y estructuración del catálogo de productos economizadores.
+
+## 2.2.2 Tienda virtual: Evaluación de WooCommerce, Shopify y Magento
+
+### WooCommerce
+WooCommerce es un plugin gratuito para WordPress que convierte sitios web en tiendas virtuales completas, siendo la solución de e-commerce más popular con 8+ millones de instalaciones. Para DEA, permitiría vender economizadores directamente desde el sitio con integración nativa a Mercado Pago, gestión de inventarios y reportes de ventas sin costos iniciales.
+
+### Shopify
+Shopify es una plataforma de e-commerce totalmente alojada (SaaS) que incluye hosting, seguridad y soporte 24/7, utilizada por 2.1 millones de comerciantes globalmente. Para DEA, facilitaría el lanzamiento rápido de una tienda profesional con escalabilidad automática, aunque requiere suscripción mensual y comisiones por transacción.
+
+### Magento
+Magento (Adobe Commerce) es una plataforma enterprise open-source diseñada para proyectos de e-commerce complejos con miles de productos y alto volumen de transacciones. Para DEA, ofrecería máxima personalización y escalabilidad para expansión internacional futura, pero demanda presupuesto elevado y equipo técnico especializado.
+
+## 2.2.3 Diseño visual: Evaluación de Elementor, Gutenberg y Divi Builder
+
+### Elementor
+Elementor es el page builder #1 para WordPress con 10+ millones de instalaciones, ofreciendo diseño visual drag-and-drop en tiempo real sin necesidad de código. Para DEA, permitiría crear páginas de producto atractivas, landing pages personalizadas y diseños responsive para dispositivos móviles, con biblioteca de 300+ plantillas prediseñadas.
+
+### Gutenberg
+Gutenberg es el editor de bloques nativo de WordPress incluido gratuitamente en el núcleo, enfocado en contenido modular mediante bloques reutilizables con diseño WYSIWYG. Para DEA, facilitaría la edición de contenido por parte de operarios sin dependencias de plugins externos, con código limpio optimizado para SEO y velocidad de carga.
+
+### Divi Builder
+Divi Builder es un page builder visual con más de 2.3 millones de sitios activos, ofreciendo 2,500+ plantillas pre-diseñadas y licencia de uso ilimitado para múltiples sitios. Para DEA, proporcionaría flexibilidad avanzada en personalización CSS, Theme Builder para modificar cualquier parte del sitio, y módulos exportables para reutilización en futuras versiones.
+
+## 2.2.4 Plataformas de Pago: Investigación y Análisis de Mercado Pago, Stripe y PayPal
+
+### Mercado Pago
+Mercado Pago es la plataforma de pagos líder en América Latina con 20% de cuota de mercado, procesando $95.4 mil millones en 2023 y soportando múltiples métodos locales como tarjetas, transferencias, efectivo y QR. Para DEA, permitiría ofrecer pagos en pesos argentinos con métodos familiares para clientes locales (Pago Fácil, Rapipago), generando mayor confianza y facilitando conversiones en el mercado argentino.
+
+### Stripe
+Stripe es una plataforma global de pagos con 17.15% de cuota de mercado mundial, procesando $1.4 trillones en 2024, disponible en 46 países con soporte para 135+ monedas y 100+ métodos de pago. Para DEA, facilitaría la expansión internacional futura con API potente para integraciones personalizadas, transferencias automáticas a cuenta bancaria, y protección antifraude avanzada mediante inteligencia artificial.
+
+### PayPal
+PayPal es el líder absoluto global en pagos online con 45% de cuota de mercado, 434 millones de cuentas activas y operación en más de 200 países. Para DEA, ofrecería reconocimiento de marca universal que genera confianza inmediata en clientes, soporte para pagos transfronterizos facilitando ventas internacionales, y opciones "Pay Later" que aumentan conversiones 39%.
+
+## 2.2.5 Analíticas: Comparativa de Google Analytics, Hotjar y Mixpanel
+
+### Google Analytics
+Google Analytics es la plataforma de analítica web líder mundial con 81.4% de cuota de mercado, completamente gratuita, ofreciendo tracking de 200+ métricas, inteligencia artificial para predicciones y e-commerce tracking completo. Para DEA, permitiría monitorear el tráfico del sitio, analizar el comportamiento de usuarios en páginas de productos, medir conversiones de ventas, y optimizar estrategias de marketing mediante datos cuantitativos precisos.
+
+### Hotjar
+Hotjar es una plataforma de analítica cualitativa especializada en UX con 1.2+ millones de sitios, ofreciendo heatmaps, session recordings, surveys y feedback widgets para entender el "por qué" detrás del comportamiento del usuario. Para DEA, facilitaría identificar puntos de fricción en el proceso de compra mediante grabaciones de sesiones, optimizar diseño de páginas con mapas de calor, y recopilar feedback directo de clientes para mejorar la experiencia de usuario.
+
+### Mixpanel
+Mixpanel es una plataforma de product analytics enfocada en análisis de eventos y comportamiento de usuarios en aplicaciones web/móviles, con capacidades avanzadas de segmentación, funnels y retención. Para DEA, proporcionaría análisis detallado del journey del cliente desde primera visita hasta compra, identificación de patrones de abandono de carrito, y segmentación avanzada de usuarios para campañas de marketing personalizadas.
+
+## 2.2.6 Integración con Redes Sociales: Evaluación de Zapier, Hootsuite y Buffer
+
+### Zapier
+Zapier es una plataforma de automatización que conecta 7,000+ aplicaciones mediante "Zaps" (flujos automatizados), permitiendo integrar WordPress con redes sociales, CRMs, email marketing y herramientas de productividad sin código. Para DEA, facilitaría automatizar publicaciones de nuevos productos en múltiples redes sociales simultáneamente, sincronizar contactos de formularios con sistemas de email marketing, y crear flujos de trabajo personalizados entre diferentes herramientas.
+
+### Hootsuite
+Hootsuite es una plataforma de gestión de redes sociales enterprise utilizada por 18+ millones de usuarios, permitiendo programar publicaciones, monitorear menciones de marca, analizar métricas y gestionar múltiples cuentas desde un dashboard centralizado. Para DEA, permitiría planificar calendario de contenidos sobre economizadores de agua, monitorear conversaciones sobre sostenibilidad y ahorro de recursos, y medir engagement en campañas de marketing digital.
+
+### Buffer
+Buffer es una herramienta de social media management enfocada en simplicidad y programación de contenido, con interfaz intuitiva para gestionar múltiples perfiles sociales y análisis de rendimiento de publicaciones. Para DEA, facilitaría programar posts automáticos al publicar nuevos productos en WooCommerce, compartir contenido educativo sobre ahorro de agua con calendario visual, y analizar qué tipos de contenido generan mayor interacción con clientes potenciales.
+
+## 2.2.7 Seguridad y rendimiento: Investigación acerca de Cloudflare, Sucuri y Kinsta
+
+### Cloudflare
+Cloudflare es la red CDN (Content Delivery Network) líder mundial con 79.9% de cuota de mercado, ofreciendo protección DDoS gratuita, firewall de aplicaciones web (WAF), optimización de velocidad y SSL/TLS automático mediante su plan gratuito. Para DEA, mejoraría significativamente la velocidad de carga del sitio distribuyendo contenido globalmente, protegería contra ataques cibernéticos procesando 4,000+ ataques diarios, y optimizaría el rendimiento para conversión de ventas sin costos iniciales.
+
+### Sucuri
+Sucuri es una plataforma de seguridad especializada en protección de sitios web con firewall de aplicaciones (WAF), monitoreo de malware 24/7, limpieza de sitios hackeados y protección DDoS mediante CDN integrada. Para DEA, proporcionaría monitoreo continuo de vulnerabilidades en WordPress y plugins, detección temprana de intentos de hackeo, respuesta rápida ante incidentes de seguridad, y protección de datos sensibles de clientes y transacciones.
+
+### Kinsta
+Kinsta es un proveedor de hosting WordPress administrado premium que incluye CDN Cloudflare integrado, backups automáticos diarios, staging environments, optimización de rendimiento con Google Cloud Platform y soporte experto 24/7. Para DEA, ofrecería infraestructura optimizada específicamente para WordPress/WooCommerce con tiempos de carga ultra-rápidos, escalabilidad automática ante picos de tráfico, y gestión completa de seguridad y actualizaciones sin intervención técnica.
+
+## 2.2.8 Hosting: Comparativa entre WP Engine, SiteGround y AWS
+
+### WP Engine
+WP Engine es un proveedor de hosting WordPress administrado premium enfocado en performance, seguridad y soporte especializado, utilizado por más de 1.5 millones de sitios con infraestructura específicamente optimizada para WordPress. Para DEA, ofrecería entorno optimizado para WooCommerce con staging environments para pruebas, backups automáticos, protección contra amenazas y soporte técnico experto, aunque con costos superiores y límites de visitantes mensuales.
+
+### SiteGround
+SiteGround es un proveedor de hosting compartido y cloud con excelente reputación en la comunidad WordPress, ofreciendo performance superior, soporte técnico altamente calificado, integración con Cloudflare gratuita y WooCommerce pre-instalado con uptime 99.98%. Para DEA, proporcionaría hosting económico inicial ($2.99/mes) con email hosting incluido, servidores optimizados para velocidad, panel administración intuitivo y migraciones gratuitas, ideal para lanzamiento del proyecto con presupuesto controlado.
+
+### AWS (Amazon Web Services)
+AWS es la plataforma de cloud computing líder mundial ofreciendo infraestructura escalable mediante servicios como EC2 (servidores virtuales), S3 (almacenamiento), RDS (bases de datos) y Lightsail (VPS simplificado), con pricing flexible pay-as-you-go. Para DEA, permitiría control total sobre infraestructura con escalabilidad ilimitada, posibilidad de implementar arquitecturas complejas para crecimiento futuro, y aprendizaje de tecnologías cloud profesionales, aunque requiere conocimientos técnicos avanzados para configuración y mantenimiento.
+
 # 2.3 DAFO sobre las herramientas investigadas
 ## 2.3.1 Identificación de debilidades, amenazas, fortalezas y oportunidades para cada una de las herramientas evaluadas
 
