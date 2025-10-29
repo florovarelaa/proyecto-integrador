@@ -1,3 +1,4 @@
+# General de DEA
 Vista de Producto - Ejemplo del competidor: https://ecoturbino.net/
 
 B2B
@@ -7,10 +8,10 @@ B2C
 
 https://www.venta-comprar.botix.com.ar/MLA-1669026588-economizador-agua-sustentable-eficiencia-ducha-canilla-grifo-_JM
 
-Viene con un disclaimer. Importante! https://ecoturbino.shop/buy/ecoturbino-deluxe-et10l-water-saving-valve/
+Importante!
+Viene con un disclaimer. https://ecoturbino.shop/buy/ecoturbino-deluxe-et10l-water-saving-valve/
 
-
-3.1.1.1 - Pantalla de bienvenida institucional
+3.1.1.1 - Pantalla de bienvenida institucional - HOME
             * Debe contener las siguientes opciones de navegacion: 
                 - pestaña Endorsement - certificaciones (solar impulse foundation), partners (international cleantech network), eventos (cumbre en francia, adeo positive home challenge, aysa certificacion tecnica)
                 - pestañas Clientes divididos por categoria
@@ -25,11 +26,14 @@ Viene con un disclaimer. Importante! https://ecoturbino.shop/buy/ecoturbino-delu
 3.1.1.4 - Pantalla de producto
             - Tecnical details
 3.1.1.5 - B2B - Pantalla de contacto con formulario dinámico
-3.1.1.6 - B2C - Pantalla de ventas con integracion de carrito y métodos de pago
+3.1.1.6 - B2C - Pantalla de ventas con integracion de carrito y métodos de pago - Puede ir a la pagina de Botix para que sea global y no solo en Argentina
 
 PLUGINS
     - CustomCSSandJavascript - para integrar codigo con elementor
 
-
 # PREGUNTAS PARA EL CLIENTE
     - Has usado el widget de elementorPRO en el pasado?
+
+# Novedades
+    - Orla empresa de brasil, tiene toda la costa de brasil. Juan manuel el socio de rama se junto con el vicepresidente. Van a probar los dispositivos en sao pablo. Quieren 320mil dispositivos
+        Abre las puertas a B2G (business 2 Government)
