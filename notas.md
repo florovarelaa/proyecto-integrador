@@ -28,12 +28,22 @@ Viene con un disclaimer. https://ecoturbino.shop/buy/ecoturbino-deluxe-et10l-wat
 3.1.1.5 - B2B - Pantalla de contacto con formulario dinámico
 3.1.1.6 - B2C - Pantalla de ventas con integracion de carrito y métodos de pago - Puede ir a la pagina de Botix para que sea global y no solo en Argentina
 
-PLUGINS
-    - CustomCSSandJavascript - para integrar codigo con elementor
+# Plugins instalados
+    - Ultimate member - Login/registro/sesion
+    - WooCommerce - carrito
+    - Custom CSS & Js - Calculadora de costos y codigo custom
+    - LiteSpeedCache
+    - WPForms - contacto - Agregarle captcha
 
 # PREGUNTAS PARA EL CLIENTE
     - Has usado el widget de elementorPRO en el pasado?
+    1/11/2025
+        - Definir acerca del carrito y la experiencia de compra, detalladamente
+        - Definir acerca de las sesiones y la experiencia del usuario, detalladamente
+        - Definir acerca de la calculadora de costos, detalladamente
+        - Sacar la pagina de perfil del usuario. Dejar la pagina de account, que nos deja ver el perfil y modificarlo
 
 # Novedades
     - Orla empresa de brasil, tiene toda la costa de brasil. Juan manuel el socio de rama se junto con el vicepresidente. Van a probar los dispositivos en sao pablo. Quieren 320mil dispositivos
         Abre las puertas a B2G (business 2 Government)
+
